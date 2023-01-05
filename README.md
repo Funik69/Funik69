@@ -1,13 +1,15 @@
-<h1 align="center">Hello 👋, I'm Raghav Upadhyay</h1>
-<h3 align="center">A passionate a well coder and upcoming software enginner</h3>
-<img align="right" alt="Error" width="400" src="https://tenor.com/view/pato-caminando-cheli-gif-24693863">
+<h1 align="center">Hello <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a50d005c-a1fa-4667-acc0-f9e5a6cc3ccf/d967j7q-543ba131-dc71-450e-af90-9a9dfca08f07.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi9hNTBkMDA1Yy1hMWZhLTQ2NjctYWNjMC1mOWU1YTZjYzNjY2YvZDk2N2o3cS01NDNiYTEzMS1kYzcxLTQ1MGUtYWY5MC05YTlkZmNhMDhmMDcuZ2lmIn1dXX0.aFBa3nF1flby5D9XrKJk-MFrkCk6nKWT_SX_hWFuDB4" width="25" alt="funik69" />, I'm Raghav Upadhyay</h1>
+<h3 align="center">A passionate well coder and upcoming software enginner</h3>
+<img align="right" alt="Error" width="300" src="https://giffiles.alphacoders.com/140/14060.gif">
+<h2>आगंतुक <img width="30" src="https://media.tenor.com/VavSdtvIXEgAAAAi/namaste.gif" />
+</h2>
+<img src="https://profile-counter.glitch.me/Funik69/count.svg" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=funik69&label=Profile%20views&color=0e75b6&style=flat" alt="funik69" /> </p>
 
 - 🔭 I’m currently studying in **IET-DAVV (INDORE)**
 - 🌱 I’m currently learning **Data structure and Algorithms**
-- 👯 I’m looking to collaborate on **open source projects**
-- 💬 Ask me about **programming**
+- 👯 I’m looking to collaborate on **open source projects** 
+- 💬 Ask me about **programming** 
 - 📫 How to reach me **raghavupadhyay541@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
