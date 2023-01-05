@@ -1,3 +1,4 @@
+![](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">Hello <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a50d005c-a1fa-4667-acc0-f9e5a6cc3ccf/d967j7q-543ba131-dc71-450e-af90-9a9dfca08f07.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi9hNTBkMDA1Yy1hMWZhLTQ2NjctYWNjMC1mOWU1YTZjYzNjY2YvZDk2N2o3cS01NDNiYTEzMS1kYzcxLTQ1MGUtYWY5MC05YTlkZmNhMDhmMDcuZ2lmIn1dXX0.aFBa3nF1flby5D9XrKJk-MFrkCk6nKWT_SX_hWFuDB4" width="25" alt="funik69" />, I'm Raghav Upadhyay</h1>
 <h3 align="center">A passionate well coder and upcoming software enginner</h3>
 <img align="right" alt="Error" width="300" src="https://giffiles.alphacoders.com/140/14060.gif">
